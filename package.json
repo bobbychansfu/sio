@@ -1,0 +1,23 @@
+{
+  "name": "sio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbychansfu/sio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobbychansfu/sio/issues"
+  },
+  "homepage": "https://github.com/bobbychansfu/sio#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "socket.io": "^4.7.4"
+  }
+}
